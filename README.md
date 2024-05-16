@@ -1,6 +1,6 @@
-# PacManGame
+# Pac-Man Game
 
-PacManGame is a simple implementation of the classic arcade game Pac-Man using Java. It provides a basic framework for building and running the game, allowing players to control Pac-Man as he navigates through a maze, eats pellets, and avoids ghosts.
+Pac-Man Game is a simple implementation of the classic arcade game Pac-Man using Java. It provides a basic framework for building and running the game, allowing players to control Pac-Man as he navigates through a maze, eats pellets, and avoids ghosts.
 
 ## Features
 
